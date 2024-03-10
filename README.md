@@ -1,2 +1,2 @@
-# Masterthesis
-This repository contains the scripts I have used during my master's thesis research
+# ProHKo is a user-friendly workflow to create HMMer profiles from KEGG Orthology (KO) proteins.
+
