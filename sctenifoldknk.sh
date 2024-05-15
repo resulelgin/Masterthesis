@@ -1,4 +1,4 @@
-### Repository contains sbatch script for submitting scTenifoldKNK scripts ###
+### sbatch script for submitting scTenifoldKNK scripts ###
 ### Please see sctenifoldknk.R for explanation ###
 
 #!/bin/bash
