@@ -1,3 +1,6 @@
+### Repository contains analysis of bulk RNA-seq experiment with DESeq2 ###
+
+
 BiocManager::install("DESeq2")
 BiocManager::install("dplyr")
 BiocManager::install("ggplot2")
