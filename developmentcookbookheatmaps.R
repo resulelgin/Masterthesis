@@ -1,4 +1,5 @@
 ### Repository contains analysis of bulk RNA-seq experiment with DESeq2 ###
+### Emphasis on heatmaps ###
 
 
 BiocManager::install("DESeq2")
