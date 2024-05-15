@@ -1,3 +1,8 @@
+### Repository contains efficienct scRNA-seq in-silico gene knockout workflow using scTenifoldKNK ###
+### Repository is expected to run with HPC ###
+### Workflow optimally works with ~300 GB RAM, ~20 cores in less than 24 hours ###
+### See sctenifoldknk.sh for sbatch submission ###
+
 options(repos = c(CRAN = "https://cran.rstudio.com/"))
 .libPaths("~/R/x86_64-pc-linux-gnu-library/4.4")  # Set local library path
 if (!requireNamespace("remotes", quietly = TRUE)) {
