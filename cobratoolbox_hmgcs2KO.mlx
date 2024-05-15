@@ -1,0 +1,19 @@
+%%% Workflow for Flux Balance Analysis (FBA) of Recon3D model with CobraToolbox %%%
+%%% Workflow proceeds to knockout Hmgcs2 gene and analyse the effects from the knockout %%%
+%%% Relaxed FBA analysis is encouraged %%%
+
+% Read the model available in VHM - Ines Thiele lab.
+model1 = readCbModel('Recon3D_301.mat');
+disp(fieldnames(model1));
+
+modelData = load('Recon3D_301.mat'); 
+modelFields = fieldnames(modelData);
+
+% Check if 'model' is one of the fields
+if ismember('model', modelFields)
+    model = modelData.model; % Extract the model structure
+else
+    % If the model structure is stored under a different variable, adjust accordingly
+    % For example, if stored under 'Recon3D':
+    model = modelData.('Recon3D');
+end
