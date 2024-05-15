@@ -1,4 +1,4 @@
-### Repository contains eggnog enzyme ID analysis of mouse gut metagenomic sequencing outputs ###
+### Workflow for eggnog enzyme ID analysis of mouse gut metagenomic sequencing outputs ###
 ### See Xiao et al. 2015, A catalog of the mouse gut metagenome for datasets ###
 
 import pandas as pd
