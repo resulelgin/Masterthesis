@@ -1,5 +1,5 @@
-### Repository contains efficienct scRNA-seq in-silico gene knockout workflow using scTenifoldKNK ###
-### Repository is expected to run with HPC ###
+### Workflow for efficient scRNA-seq in-silico gene knockout using scTenifoldKNK ###
+### Workflow is expected to run with HPC ###
 ### Workflow optimally works with ~300 GB RAM, ~20 cores in less than 24 hours ###
 ### See sctenifoldknk.sh for sbatch submission ###
 
