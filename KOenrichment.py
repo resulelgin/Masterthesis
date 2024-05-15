@@ -1,4 +1,4 @@
-### Repository contains workflow for analysing KEGG Orthology (KO) abundance analysis ###
+### Workflow for analysing KEGG Orthology (KO) abundance analysis ###
 ### KO abundances were inferred from PICRUSt2 ###
 ### PICRUSt2 input was obtained from Qiime2 ###
 
