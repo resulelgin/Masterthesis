@@ -1,3 +1,6 @@
+### Repository contains workflow for analysing Xiao et al (DOI: 10.1038/nbt.3353) database KEGG Orthology (KO) abundance ###
+### Emphasizing an efficient workflow to filter/visualize the dataframes filtered for the genes of interest ###
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
