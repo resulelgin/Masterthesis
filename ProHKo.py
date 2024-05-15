@@ -1,4 +1,6 @@
-
+### Experimental workflow for obtaining homologous enzyme sequences ###
+### Depends on KEGG Orthology API ###
+### Knowledgebase-free inferences should be subjected to further bioinformatics confirmations along with experimental verification ###
 
 import requests
 import subprocess
