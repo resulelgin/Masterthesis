@@ -1,4 +1,4 @@
-### Repository contains workflow for analysing KEGG Orthology database enzymes with filtering of KEGG species with host association ###
+### Workflow for analysing KEGG Orthology database enzymes with filtering of KEGG species with host association ###
 ### Host association information of species/strains were obtained from: DOI: 10.1038/nbt.3353 ###
 
 import requests
