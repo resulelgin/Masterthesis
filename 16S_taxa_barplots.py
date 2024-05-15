@@ -1,4 +1,4 @@
-### Repository contains a workflow for taxonomical barplot visual output for 16S rRNA sequencing ###
+### Workflow for taxonomical barplot visual output for 16S rRNA sequencing ###
 ### Qiime2View barplot csv file was used as an input ###
 
 import pandas as pd
