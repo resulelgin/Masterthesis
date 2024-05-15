@@ -1,3 +1,6 @@
+### Repository contains an in-depth workflow for analysing 16S rRNA sequencing taxonomical abundance analysis across study groups ###
+### Input is obtained from Qiime2View ###
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
