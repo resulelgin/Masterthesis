@@ -1,5 +1,5 @@
-### Repository contains workflow for network analysis of 16S rRNA sequencing data ###
-### Repository assumes *relative abundance*, not absolute abundances of taxonomical ranks ###
+### Workflow for network analysis of 16S rRNA sequencing data ###
+### Workflow assumes *relative abundance*, not absolute abundances of taxonomical ranks ###
 
 install.packages("devtools")
 install_github("zdk123/SpiecEasi")
