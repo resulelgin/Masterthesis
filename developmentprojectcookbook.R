@@ -1,4 +1,4 @@
-### Repository contains more in-depth analysis of bulk RNA-seq analysis ###
+### Workflow for more in-depth analysis of bulk RNA-seq analysis ###
 ### Emphasis on pathways ###
 ### See developmentcookbookheatmaps.R for heatmap emphasis ###
 
