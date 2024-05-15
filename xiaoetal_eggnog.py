@@ -1,3 +1,6 @@
+### Repository contains eggnog enzyme ID analysis of mouse gut metagenomic sequencing outputs ###
+### See Xiao et al. 2015, A catalog of the mouse gut metagenome for datasets ###
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
