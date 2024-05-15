@@ -12,8 +12,8 @@
 #SBATCH --mem=150G
 #SBATCH --cpus-per-task=20
 
-# Load necessary modules
-module load r  # Adjust the version as necessary
+# Load R in HPC environment
+module load r
 
-# Run your R script
+# Run the R script
 Rscript sctenifoldknk.R
