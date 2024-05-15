@@ -1,5 +1,6 @@
 ### Repository contains analysis of bulk RNA-seq experiment with DESeq2 ###
 ### Emphasis on heatmaps ###
+### See developmentprojectcookbook.R for pathway emphasis ###
 
 
 BiocManager::install("DESeq2")
