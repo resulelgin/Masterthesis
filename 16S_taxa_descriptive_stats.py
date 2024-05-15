@@ -1,3 +1,6 @@
+### Repository contains workflow for 16S rRNA sequencing taxonomical abundance descriptive statistics ###
+### Input is obtained from Qiime2View ###
+
 import pandas as pd
 import openpyxl
 
