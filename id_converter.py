@@ -1,4 +1,4 @@
-### Repository contains simple workflow for converting Ensembl ids into entrez ids ###
+### Simple workflow for converting Ensembl ids into entrez ids ###
 ### Used for bulk RNA-seq analysis ###
 
 import pandas as pd
