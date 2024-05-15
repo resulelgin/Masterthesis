@@ -1,3 +1,7 @@
+### Workflow for Differential Abundance Analysis (DAA) of 16S rRNA sequencing ###
+### Usage of deseq2 which assumes a negative binomial distribution for 16S rRNA sequencing is debated ###
+### If unsure, please refer to ANCOMbc or Aldex2. Please see: https://doi.org/10.1038/s41467-022-28034-z ###
+
 ### Importing Qiime2 Output and Creating Phyloseq Object ###
 devtools::install_github("jbisanz/qiime2R")
 install.packages("tidyverse")
