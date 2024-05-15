@@ -1,4 +1,4 @@
-### Repository contains the analysis workflow of sctenifoldKNK output ###
+### Workflow for the analysis of sctenifoldKNK output ###
 ### Outcome of sctenifoldKNK is expected to be obtained from sctenifoldknk.sh, calling sctenifoldknk.R, saving the output as .rds ###
 
 endotheliaeae14hmgcs2ko <- readRDS("EAE14EndotheliaSC_hmgcs2ko_output.rds")
