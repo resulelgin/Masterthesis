@@ -1,5 +1,5 @@
-### Repository contains the workflow for analysing the network properties of 16S rRNA sequencing data ###
-### Repository assumes absolute counts as input ###
+### Workflow for analysing the network properties of 16S rRNA sequencing data ###
+### Workflow assumes absolute counts as input ###
 
 ### Importing Qiime2 Output and Creating Phyloseq Object ###
 devtools::install_github("jbisanz/qiime2R")
